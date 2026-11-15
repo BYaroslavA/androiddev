@@ -118,7 +118,9 @@ dependencies {
 |:---:|:---:|:---:|:---:|
 | ![Загальний вигляд](<img width="974" height="994" alt="image" src="https://github.com/user-attachments/assets/19718691-bb89-43b9-ba3a-98e0becd5065" />
 ) | ![Графіки](<img width="381" height="330" alt="image" src="https://github.com/user-attachments/assets/b6b5218c-820f-40f6-bd68-1c02c1279344" />
-) | ![Shimmer і Coil]() | ![Конфеті]() |
+) | ![Shimmer і Coil](<img width="380" height="214" alt="image" src="https://github.com/user-attachments/assets/1d61b02c-327c-491d-8c09-1a0ff7b002a1" />
+) | ![Конфеті](<img width="487" height="932" alt="image" src="https://github.com/user-attachments/assets/56e6b787-9467-4b58-9bfa-744bc9ab5840" />
+) |
 
 ---
 
