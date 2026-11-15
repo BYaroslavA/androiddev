@@ -116,7 +116,9 @@ dependencies {
 
 | Екран (Загальний вигляд) | Графіки та Lottie | Скелетон Shimmer / Coil | Святкове конфеті |
 |:---:|:---:|:---:|:---:|
-| ![Загальний вигляд](screenshots/screen1.png) | ![Графіки](screenshots/screen2.png) | ![Shimmer і Coil](screenshots/screen3.png) | ![Конфеті](screenshots/screen4.png) |
+| ![Загальний вигляд](<img width="974" height="994" alt="image" src="https://github.com/user-attachments/assets/19718691-bb89-43b9-ba3a-98e0becd5065" />
+) | ![Графіки](<img width="381" height="330" alt="image" src="https://github.com/user-attachments/assets/b6b5218c-820f-40f6-bd68-1c02c1279344" />
+) | ![Shimmer і Coil]() | ![Конфеті]() |
 
 ---
 
