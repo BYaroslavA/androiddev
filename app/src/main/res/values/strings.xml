@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Top 5 Libraries</string>
+    <string name="lottie_pause">Пауза</string>
+    <string name="lottie_play">Відтворити</string>
+    <string name="lottie_speed_format">Швидкість: %.1fx</string>
+    <string name="shimmer_show_data">Показати завантажені дані</string>
+    <string name="shimmer_show_skeleton">Показати скелетон (Shimmer)</string>
+    <string name="coil_status_circle">Трансформація: CircleCrop (коло)</string>
+    <string name="coil_status_rounded">Трансформація: RoundedCorners (32dp)</string>
+</resources>

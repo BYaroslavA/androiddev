@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Theme Colors -->
+    <color name="primary">#FF2A4365</color>
+    <color name="primary_light">#FF3182CE</color>
+    <color name="secondary">#FF319795</color>
+    <color name="accent_orange">#FFED8936</color>
+    <color name="accent_purple">#FF805AD5</color>
+    <color name="accent_pink">#FFED64A6</color>
+
+    <!-- Backgrounds & Surfaces -->
+    <color name="bg_main">#FFF7FAFC</color>
+    <color name="card_bg">#FFFFFFFF</color>
+    <color name="card_stroke">#FFE2E8F0</color>
+    <color name="text_primary">#FF1A202C</color>
+    <color name="text_secondary">#FF718096</color>
+    <color name="shimmer_placeholder">#FFE2E8F0</color>
+</resources>
