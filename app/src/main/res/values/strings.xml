@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Фотошоп 2.0</string>
+    <string name="title_editor">Фотошоп 2.0</string>
+    <string name="subtitle_editor">Професійний редактор фото</string>
+
+    <!-- Source Options -->
+    <string name="action_camera">Камера</string>
+    <string name="action_gallery">Галерея</string>
+    <string name="action_web">З інтернету</string>
+    <string name="action_demo">Демо фото</string>
+
+    <!-- Top bar actions -->
+    <string name="action_compare">Порівняти</string>
+    <string name="action_undo">Скасувати</string>
+    <string name="action_redo">Повторити</string>
+    <string name="action_reset">Скинути</string>
+    <string name="action_save">Зберегти</string>
+    <string name="action_share">Поділитися</string>
+
+    <!-- Navigation tabs -->
+    <string name="tab_filters">Фільтри</string>
+    <string name="tab_adjust">Корекція</string>
+    <string name="tab_transform">Геометрія</string>
+    <string name="tab_crop">Обрізка</string>
+    <string name="tab_effects">Ефекти</string>
+
+    <!-- Adjustments -->
+    <string name="label_brightness">Яскравість</string>
+    <string name="label_contrast">Контраст</string>
+    <string name="label_saturation">Насиченість</string>
+    <string name="label_vignette">Віньєтка</string>
+
+    <!-- Transforms -->
+    <string name="action_rotate_left">Поворот -90°</string>
+    <string name="action_rotate_right">Поворот +90°</string>
+    <string name="action_flip_h">Дзеркало Г</string>
+    <string name="action_flip_v">Дзеркало В</string>
+
+    <!-- Crop presets -->
+    <string name="crop_free">Вільна</string>
+    <string name="crop_1_1">1:1 Квадрат</string>
+    <string name="crop_4_3">4:3 Стандарт</string>
+    <string name="crop_16_9">16:9 Широкий</string>
+    <string name="crop_9_16">9:16 Сторіс</string>
+    <string name="crop_3_4">3:4 Портрет</string>
+    <string name="crop_apply">Застосувати обрізку</string>
+    <string name="crop_cancel">Скасувати</string>
+
+    <!-- Messages -->
+    <string name="msg_saved_success">Зображення збережено в галерею!</string>
+    <string name="msg_saved_failed">Не вдалося зберегти зображення</string>
+    <string name="msg_load_failed">Не вдалося завантажити зображення</string>
+    <string name="msg_downloading">Завантаження зображення з мережі…</string>
+    <string name="empty_prompt">Оберіть фото з камери, галереї або введіть URL</string>
+</resources>

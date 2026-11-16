@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Core Backgrounds & Surfaces -->
+    <color name="bg_dark">#0D0F14</color>
+    <color name="bg_surface">#161920</color>
+    <color name="bg_card">#20242D</color>
+    <color name="bg_card_selected">#2A303D</color>
+    <color name="bg_card_hover">#353D4E</color>
+
+    <!-- Accent & Highlights -->
+    <color name="accent_primary">#00E5FF</color>
+    <color name="accent_primary_dark">#00B0FF</color>
+    <color name="accent_secondary">#818CF8</color>
+    <color name="accent_glow">#3300E5FF</color>
+    <color name="accent_gold">#FBBF24</color>
+    <color name="accent_danger">#EF4444</color>
+    <color name="accent_success">#10B981</color>
+
+    <!-- Typography -->
+    <color name="text_title">#FFFFFF</color>
+    <color name="text_body">#E2E8F0</color>
+    <color name="text_muted">#94A3B8</color>
+    <color name="text_dim">#64748B</color>
+
+    <!-- UI Elements -->
+    <color name="divider_line">#262B37</color>
+    <color name="slider_track">#334155</color>
+    <color name="chip_bg">#1E222A</color>
+    <color name="crop_grid">#99FFFFFF</color>
+    <color name="crop_corner">#00E5FF</color>
+    <color name="overlay_dim">#AA000000</color>
+
+    <!-- Common -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+</resources>
